@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 21:48:30,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
+2025-11-25 11:13:55,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 
 4K频道,#genre#
 北京卫视4K,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
@@ -10,10 +10,15 @@
 北京卫视4K,https://migu.188766.xyz/?migutoken=589a130d231ce123497c4ad7b38bedf1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视4K,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
+北京卫视4K,https://migu.188766.xyz/?migutoken=9d45c253496f82ab843345319ee7e19f&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+北京卫视4K,https://stream1.freetv.fun/786bf920787f92216b3f39c74879c122dbb5dfe0f0d4082b5f43fdf3c8a75474.m3u8
 江苏卫视4K,https://migu.188766.xyz/?migutoken=a6a9089aa2c50f9605c21918676910d9&id=js4k&pp=1
 江苏卫视4K,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K%E5%8F%B0
+江苏卫视4K,https://migu.188766.xyz/?migutoken=2840dbd85ebfae5b9e15156ae266dddc&id=js4k&pp=1
 东方卫视4K,https://migu.188766.xyz/?migutoken=948778ee60bddaca1fb30d6a11f88e5b&id=dfws&type=sz
 东方卫视4K,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K%E5%8F%B0
+东方卫视4K,https://migu.188766.xyz/?migutoken=e073398acb3e708ab1b160f9bfa8c157&id=dfws&type=sz
+东方卫视4K,https://migu.188766.xyz/?migutoken=d9e481a8b878464bd7c1618f364cee51&id=dfws&type=sz
 湖南卫视4K,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视4K,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视4K,http://j.x.bkpcp.top/jx/HUNANHD
@@ -23,8 +28,11 @@
 湖南卫视4K,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 湖南卫视4K,https://tv.iill.top/migu/hnws
 湖南卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+湖南卫视4K,https://migu.188766.xyz/?migutoken=32d496af23193ad081355a4f61502236&id=hnws&type=sz
 浙江卫视4K,https://migu.188766.xyz/?migutoken=d32a09dc9ce0ba72d5337469da4045f8&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K%E5%8F%B0
+浙江卫视4K,https://migu.188766.xyz/?migutoken=eea708a4e2a02bede26380d574d0eeff&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=d26b05a13e73e3b4a8fabbd0d2a894e5&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 四川卫视4k,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视4k,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视4k,http://j.x.bkpcp.top/jx/SICHD
@@ -33,7 +41,10 @@
 四川卫视4k,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0
 四川卫视4k,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视4k,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
+四川卫视4k,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-1.ctv
+四川卫视4k,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-7.ctv
 深圳卫视4K,https://migu.188766.xyz/?migutoken=1b667061f032aac8269d9552d1916694&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://migu.188766.xyz/?migutoken=bd50150f9ec02041a48560ffce4441f7&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -306,6 +317,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -884,6 +896,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-2.ctv
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
+浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
@@ -1724,6 +1737,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=36d104578a14bd2af2e44d521c7f70c7&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=850baccdfb952cce3179fffe28a25fd8&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=48d9be0b699c41442e9f13067194d78a&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=649c4d648469eba33f9e632c0a83ab78&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=3311c2eca5fd9251ed760f458691f236&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=3e8917d537b968ee58829aa8fb7d2f43&id=hn_jjpd&type=sz
@@ -1731,6 +1745,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=07ef1bd2479e6bd0002a2f4a7d59498c&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=b17977dd0863348a3c1a314e82cfcd91&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=ae8b27bc9ab124b0a9c7706133108299&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=1b8476ba7ed3bdf0cd7522bb01ddbf71&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1740,6 +1755,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=76e02531ffac2747e9682e3caf1a7d35&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=188187899417b9c11551f7e2aa816e47&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=05bf1c0ecfe738bab5ebcb4797350315&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=37e5839ffd4f9f3e8c2580ee0553541a&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=7d620660bdcd2a10cdf01ba2f48ba2f2&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a5e852e9fea77dd86488c89835e1f7f4&id=hn_sepd&type=sz
@@ -1747,6 +1763,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=bf245a0c44e6a53a28b5377b3c5a62e3&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=34478bc946a640ba924004a97689b6a0&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=bd477a5d3e6797a5524ba5992f1ab582&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=b696139a1af6bfc289ae514266b1b70c&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1756,6 +1773,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=1c5ce3dd327cdf5498767a98fcb2bc5c&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=6a031dc4b9a220ba3a07b623944a9218&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=68712e5a04806346927ce63f9428d868&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=2167be0641080b718dd08bf41ca2f529&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -2305,6 +2323,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -2464,6 +2483,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-6.ctv
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
