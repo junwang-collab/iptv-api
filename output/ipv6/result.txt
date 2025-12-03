@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 14:57:12,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
+2025-12-03 11:15:21,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 
 4K频道,#genre#
 北京卫视4K,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
@@ -24,6 +24,7 @@
 东方卫视4K,https://migu.188766.xyz/?migutoken=3c394da0d8a40a528eedbc229f05580c&id=dfws&type=sz
 东方卫视4K,https://migu.188766.xyz/?migutoken=ad1c0814931832865701572fe3ea3384&id=dfws&type=sz
 东方卫视4K,https://migu.188766.xyz/?migutoken=6ea93913cb8dede03e2eba9f3938d36f&id=dfws&type=sz
+东方卫视4K,https://migu.188766.xyz/?migutoken=84ab0b1777852b0320bfe2223b04587e&id=dfws&type=sz
 湖南卫视4K,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视4K,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视4K,http://j.x.bkpcp.top/jx/HUNANHD
@@ -41,6 +42,7 @@
 浙江卫视4K,https://migu.188766.xyz/?migutoken=f9e41401283c8631e177b65417b8a230&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=6f5f9b8a1808aa0c936d1f621a3fb4f3&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=c918ef2c5194df17ffd98df84516ddbb&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=c6bc244dcde5b2d2c469afcbb76f37f3&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 四川卫视4k,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视4k,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视4k,http://j.x.bkpcp.top/jx/SICHD
@@ -56,6 +58,7 @@
 深圳卫视4K,https://migu.188766.xyz/?migutoken=a9448c3c52a1e8b22ba647881b7eb5c3&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=d118916d517f7c3e651ab2730ab6dc38&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=87e41858a1d27d53c09e93fb9c298d17&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://migu.188766.xyz/?migutoken=d88d8609ead844e95065564ba6b3fb02&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2397,6 +2400,12 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-1.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-3.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-5.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-6.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-7.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
@@ -2475,6 +2484,11 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-1.m3u8
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-3.m3u8
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.m3u8
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-5.m3u8
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-6.m3u8
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-2.ctv
@@ -2483,6 +2497,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
